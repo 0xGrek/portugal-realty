@@ -82,8 +82,10 @@ ScraperOrchestrator
 
 ---
 
-More at [0xgrek.com](https://0xgrek.com/projects/portugal-realty)
+Live demo: [portugal-realty-server.onrender.com](https://portugal-realty-server.onrender.com/) · Portfolio: [0xgrek.com](https://0xgrek.com)
 
 ---
 
-MIT License
+© 2024-2026 Serhii Ivanenko.
+
+Licensed under the [MIT License](LICENSE).
